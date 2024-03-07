@@ -1,3 +1,3 @@
-# Music-Store-Data-Analysis-end-to-end-Project-using-Python
+# Music-Store-Data-Analysis-end-to-end-Project-using-SQL
 
 
